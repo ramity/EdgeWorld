@@ -1,0 +1,83 @@
+[
+  {
+    "position" : {
+      "x" : 0,
+      "y" : 5,
+      "z" : 0
+    },
+    "size" : {
+      "w" : 11,
+      "h" : 1,
+      "d" : 1
+    },
+    "options" : {
+      "color" : "#ffffff",
+      "receiveShadow" : true
+    }
+  },
+  {
+    "position" : {
+      "x" : 5,
+      "y" : 0,
+      "z" : 0
+    },
+    "size" : {
+      "w" : 1,
+      "h" : 11,
+      "d" : 1
+    },
+    "options" : {
+      "color" : "#ffffff",
+      "receiveShadow" : true
+    }
+  },
+  {
+    "position" : {
+      "x" : 0,
+      "y" : -5,
+      "z" : 0
+    },
+    "size" : {
+      "w" : 11,
+      "h" : 1,
+      "d" : 1
+    },
+    "options" : {
+      "color" : "#ffffff",
+      "receiveShadow" : true
+    }
+  },
+  {
+    "position" : {
+      "x" : -5,
+      "y" : 0,
+      "z" : 0
+    },
+    "size" : {
+      "w" : 1,
+      "h" : 11,
+      "d" : 1
+    },
+    "options" : {
+      "color" : "#ffffff",
+      "receiveShadow" : true
+    }
+  },
+  {
+    "position" : {
+      "x" : 3,
+      "y" : 3,
+      "z" : 0
+    },
+    "size" : {
+      "w" : 1,
+      "h" : 1,
+      "d" : 1
+    },
+    "options" : {
+      "color" : "#e67e22",
+      "receiveShadow" : true,
+      "castShadow" : true
+    }
+  }
+]
