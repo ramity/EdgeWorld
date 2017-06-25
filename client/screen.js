@@ -56,15 +56,21 @@
   {
     var delta;
 
-    if (event.wheelDelta){
+    if(event.wheelDelta)
+    {
       delta = event.wheelDelta;
-    }else{
+    }
+    else
+    {
       delta = -1 * event.deltaY;
     }
 
-    if (delta < 0){
+    if(delta < 0)
+    {
       console.log("DOWN");
-    }else if (delta > 0){
+    }
+    else if (delta > 0)
+    {
       console.log("UP");
     }
   });
